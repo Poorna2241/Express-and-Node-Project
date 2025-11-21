@@ -1,0 +1,24 @@
+{
+  "name": "express-and-node-project",
+  "version": "1.0.0",
+  "description": "introduction",
+  "homepage": "https://github.com/Poorna2241/Express-and-Node-Project#readme",
+  "bugs": {
+    "url": "https://github.com/Poorna2241/Express-and-Node-Project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Poorna2241/Express-and-Node-Project.git"
+  },
+  "license": "ISC",
+  "author": "Poorna",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.20.1"
+  }
+}
